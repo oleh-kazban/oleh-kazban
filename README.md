@@ -31,3 +31,4 @@ Currently open to new opportunities and exciting engineering challenges.
 
 **Let's Connect**
 *   LinkedIn: [Oleh Kazban](https://www.linkedin.com/in/oleh-kazban-00618968/)
+*   Email: kazban.oleg@gmail.com
