@@ -23,6 +23,7 @@ For me, writing code is just one part of the job. I really enjoy taking complete
 * **Architecture & Scaling:** Nx Monorepos, Micro-frontends (Module/Native Federation)
 * **State Management:** RxJS, NgRx, NGXS, Zustand
 * **Backend & APIs:** Node.js, NestJS, Express
+* **Databases:** PostgreSQL, MongoDB, Redis
 * **Languages:** TypeScript, JavaScript, Python
 * **Data Visualization:** d3.js, Highcharts
 * **Business Intelligence:** Microsoft Power BI (embedded reports and custom visuals)
